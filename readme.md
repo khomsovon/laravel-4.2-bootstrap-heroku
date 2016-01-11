@@ -5,3 +5,8 @@ This repository is to help with basic laravel setup irrespective of the specific
 ### License
 
 The software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+### Heroku Deploy Button
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/singularity-is-i/laravel-5-2-mysql-bootstrap)
+
