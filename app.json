@@ -1,0 +1,16 @@
+{
+  "name": "Laravel 5.2 on Heroku",
+  "description": "Laravel 5.2 with MySql and Bootstrap on Heroku",
+  "website": "https://github.com/singularity-is-i/laravel-5-2-mysql-bootstrap/wiki",
+  "repository": "https://github.com/singularity-is-i/laravel-5-2-mysql-bootstrap",
+  "logo": "https://raw.githubusercontent.com/singularity-is-i/laravel-5-2-mysql-bootstrap/master/laravel5.png",
+  "success_url": "/landing.html",
+  "keywords": ["PHP", "laravel5", "Bootstrap"],
+  "addons": ["cleardb:ignite", "papertrail:choklad", "newrelic:wayne", "memcachedcloud:30"],
+  "env": {
+    "SAMPLE_ENV": {
+      "description": "Sample environment var",
+      "required": false
+    }
+  }
+}
