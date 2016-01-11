@@ -5,8 +5,8 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
+		"php": "^5.6.0",
 		"laravel/framework": "4.2.*",
-		"ext-mcrypt": "*",
 		"wildbit/postmark-php": "dev-master"
 	},
 	"autoload": {
