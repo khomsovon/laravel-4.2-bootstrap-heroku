@@ -1,8 +1,8 @@
 {
   "name": "Laravel 5.2 on Heroku",
   "description": "Laravel 5.2 with MySql and Bootstrap on Heroku",
-  "website": "https://github.com/singularity-is-i/laravel-5-2-mysql-bootstrap/wiki",
-  "repository": "https://github.com/singularity-is-i/laravel-5-2-mysql-bootstrap",
+  "website": "https://github.com/singularity-is-i/laravel-4.2-bootstrap-heroku/wiki",
+  "repository": "https://github.com/singularity-is-i/laravel-4.2-bootstrap-heroku",
   "logo": "https://raw.githubusercontent.com/singularity-is-i/laravel-4.2-bootstrap-heroku/master/laravel5.png",
   "success_url": "/",
   "keywords": ["PHP", "laravel5", "Bootstrap"],
